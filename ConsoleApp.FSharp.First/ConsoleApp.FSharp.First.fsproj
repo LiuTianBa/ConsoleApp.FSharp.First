@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Dictionary.fs" />
+    <Compile Include="VaraibleList.fs" />
+    <Compile Include="Map.fs" />
+    <Compile Include="Set.fs" />
+    <Compile Include="Sequence.fs" />
+    <Compile Include="List.fs" />
+    <Compile Include="Record.fs" />
+    <Compile Include="Tuple.fs" />
+    <Compile Include="Optional.fs" />
+    <Compile Include="CharacterString.fs" />
+    <Compile Include="Funciton.fs" />
+    <Compile Include="Loop.fs" />
+    <Compile Include="Operator.fs" />
+    <Compile Include="Placeholder.fs" />
+    <Compile Include="Variable.fs" />
+    <Compile Include="BoolValueType.fs" />
+    <Compile Include="TextValueType.fs" />
+    <Compile Include="FloatingValueType.fs" />
+    <Compile Include="ValueType.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
