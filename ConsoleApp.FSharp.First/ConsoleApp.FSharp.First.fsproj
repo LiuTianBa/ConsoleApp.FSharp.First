@@ -6,6 +6,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Namespace.fs" />
+    <Compile Include="Module.fs" />
+    <Compile Include="Event.fs" />
+    <Compile Include="Interface.fs" />
+    <Compile Include="Inherit.fs" />
+    <Compile Include="OperatorOverloading.fs" />
+    <Compile Include="Struct.fs" />
+    <Compile Include="Class.fs" />
+    <Compile Include="Exception.fs" />
+    <Compile Include="PatternMatching.fs" />
+    <Compile Include="Enum.fs" />
+    <Compile Include="Delegate.fs" />
+    <Compile Include="GenericParadigm.fs" />
+    <Compile Include="IO.fs" />
     <Compile Include="Dictionary.fs" />
     <Compile Include="VaraibleList.fs" />
     <Compile Include="Map.fs" />
